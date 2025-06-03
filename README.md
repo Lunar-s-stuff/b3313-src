@@ -1,3 +1,6 @@
+# [WARNING]
+This is a archive of the repository (now gone) "Bonmarioinc/b3313-src". I am not associated in B3313 in any way.
+
 # beeie real
 Directory structure:
 - `Bangers` - music
