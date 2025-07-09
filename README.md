@@ -1,5 +1,14 @@
-# **_[WARNING]_**
+<h1 align="center">
+  <br>
+  <b>⚠️⚠️!! WARNING !!⚠️⚠️</b>
+  <br>
+</h1>
+
+<div align="center">
+  
 This is a archive of the repository (now gone) [_"Bonmarioinc/b3313-src"_](). I am not associated in [**_B3313_**](https://b3313.fandom.com/wiki/B3313) in _**ANY**_ way.
+
+</div>
 
 # beeie real
 Directory structure:
