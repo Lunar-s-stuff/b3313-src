@@ -1,7 +1,5 @@
 <h1 align="center">
-  <br>
   <b>⚠️⚠️!! WARNING !!⚠️⚠️</b>
-  <br>
 </h1>
 
 <div align="center">
