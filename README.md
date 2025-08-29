@@ -6,6 +6,12 @@
   
 This is a archive of the repository (now gone) [_"Bonmarioinc/b3313-src"_](). I am not associated in [**_B3313_**](https://b3313.fandom.com/wiki/B3313) in _**ANY**_ way.
 
+<h1 align="center">
+  <b>update</b>
+</h1>
+the source code for beeie is now released anyway, and this is just a archive of some commit in the [Chlorobite/B3313tools-TrollEngine](https://github.com/Chlorobite/B3313tools-TrollEngine) repository.
+i will try to find what specific one though.
+
 </div>
 
 # beeie real
